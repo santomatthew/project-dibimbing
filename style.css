@@ -1,0 +1,45 @@
+.navbarmenu{
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.headerlink{
+    border-radius: 25px;
+}
+
+.headerlink:hover{
+    background-color: #C8E3D4;
+
+}
+
+.menubarbg{
+    background-color: aqua;
+}
+
+.topbg{
+    background-color: #F6D7A7;
+}
+
+.bgfooter{
+    background-color: #87AAAA;
+    padding: 30px;
+}
+
+.navbarlink{
+    font-family: 'Dancing Script', cursive;
+}
+
+.footerlink{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.footernav{
+    border-radius: 10px;
+}
+.footernav:hover{
+    background-color: #C8E3D4;
+    margin-left: 10px;
+    color: black;
+}
